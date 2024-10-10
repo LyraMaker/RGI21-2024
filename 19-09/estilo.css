@@ -1,0 +1,26 @@
+body{
+    background-color: black; /* Define a cor do fundo do elemento */
+    padding: 20%;
+}
+
+.principal{
+    color:white; /* Define a cor da letra do elemento */
+    width: 50%; /* Define a largura em 70% */
+    border: 5px white solid;
+    margin:0 auto; /*Definimos a margem superior e inferior com 0 e esquerda e 
+                    direita como "automática" */
+
+}
+
+header, main, footer{
+    padding: 10px;
+    text-align: center;
+}
+
+.titulo.grande{
+    font-size: 22pt;
+}
+
+.titulo.pequeno{
+    font-size: 16pt;
+}
